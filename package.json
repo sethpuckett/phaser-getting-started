@@ -1,0 +1,22 @@
+{
+  "name": "phaser-getting-started",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethpuckett/phaser-getting-started.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sethpuckett/phaser-getting-started/issues"
+  },
+  "homepage": "https://github.com/sethpuckett/phaser-getting-started#readme",
+  "dependencies": {
+    "phaser": "^2.6.2"
+  }
+}
